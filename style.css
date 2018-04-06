@@ -1,0 +1,17 @@
+* {
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s; }
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px; }
+
+ul {
+  padding: 10px 0px; }
+
+img {
+  width: 100%;
+  max-height: 161.2px;
+  min-height: 161.2px; }
